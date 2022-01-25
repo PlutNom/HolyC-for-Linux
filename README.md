@@ -7,7 +7,7 @@ run HolyC on Linux secularly
 
 #### Disclaimer
 
-This tool is in super-hella-mega alpha stage. If you use this, you will die. Or worse, your current operating system will be replaced with TempleOS. I've only tested this on `3.7-dev`.
+This tool is in super-hella-mega alpha stage. I've only tested this on `3.7-dev`.
 
 ## Install
 
